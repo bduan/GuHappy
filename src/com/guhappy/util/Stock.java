@@ -19,7 +19,7 @@ public class Stock implements Comparable<Stock> {
 		this.ticker = ticker;
 		this.name = name;
 	}
-
+// test for branch
 	public Integer getRegionindex() {
 		return regionindex;
 	}
